@@ -14,10 +14,10 @@
 
 .myprojectcontainer {
   text-align: center;
-  background-color: rgb(154, 21, 83);
+  background-color: rgb(17, 4, 10);
   width: 100%;
   height: 100% ;
-  color: aqua;
+  color: rgb(0, 0, 0);
   padding: 10px;
   display: 'flex';
   align-items: 'center';
@@ -27,10 +27,10 @@
 
 .projectitem {
   text-align: center;
-  background-color: rgb(41, 194, 186);
+  background-color: rgb(212, 212, 212);
   width: 25%;
   height: 40vh;
-  color: aqua;
+  color: rgb(0, 0, 0);
   float:left ;
   margin-bottom: 5px;
   margin-right: 5px;
