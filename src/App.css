@@ -6,13 +6,13 @@
 
 .contentcontainer {
   text-align: center;
-  background-color: bisque;
+  background-color: rgb(47, 255, 255);
   width: 100%;
   height: 100vh ;
 
 }
 
-.myprojectcontainer {
+/* .myprojectcontainer {
   text-align: center;
   background-color: rgb(17, 4, 10);
   width: 100%;
@@ -23,7 +23,7 @@
   align-items: 'center';
   justify-content: 'center';
 
-}
+} */
 
 .projectitem {
   text-align: center;
@@ -34,6 +34,7 @@
   float:left ;
   margin-bottom: 5px;
   margin-right: 5px;
+  padding-left: 30px;
 
 
 }
